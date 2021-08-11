@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# use this to set the project and active the service account from your local
+# use this to set the project and activate the service account from your local
 # credentials.json would be your service account file
 # don't forget to give relevant access needed to service account 
 gcloud config set project mydeal-bigquery
