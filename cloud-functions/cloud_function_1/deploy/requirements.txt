@@ -1,0 +1,24 @@
+# Function dependencies, for example:
+# package>=version
+
+
+google-auth
+google-auth-httplib2
+httplib2
+google-cloud-bigquery
+google-cloud-storage
+google-cloud-pubsub
+google-api-python-client
+oauth2client
+pandas
+slack_sdk = 1.10 
+
+
+
+
+
+
+
+
+
+
