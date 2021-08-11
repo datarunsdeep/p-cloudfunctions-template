@@ -3,5 +3,6 @@
 ### main - your main logic sit here
 ### configurations - all the config params used in the main
 ### requirements - for all dependencies
+### credentials - the service account json file
 ### deploy - for deploying from local machine
 
